@@ -3,3 +3,5 @@ feature0001의 첫번째 작업 사항 ->여기서 발생하는 에러를 고침
 feature002의 첫번째 작업 사항
 feature003의 첫번째 작업 사항 (wheel frame 17inch)
 feature003의 두번째 작업 사항 (wheel frame 20inch)
+feature004의 첫번째 작업 사항 (한국타이어와 연결)
+feature004의 두번째 작업 사항 (넥센타이어와 연결)
