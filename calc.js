@@ -1,3 +1,7 @@
-function sum(a,b){
-  return a + b;
+function sum(...arg){
+  return arg.reduce((a, b) => a + b);
+}
+
+function sub(...arg){
+  return arg.reduce((a, b) => a - b);
 }
